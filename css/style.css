@@ -1,0 +1,21 @@
+td, th{
+    border: 2px solid;
+    padding: 10px;
+}
+
+.table{
+    width: 100%;
+    border-collapse: collapse ;
+}
+
+.cor{
+    background-color: #555C66;
+}
+
+.cor2{
+    background-color: #E7516C;
+}
+
+.cor3{
+    background-color: #70CF69;
+}
